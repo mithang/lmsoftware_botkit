@@ -1,0 +1,9 @@
+npm install -g yo generator-botkit
+yo botkit
+-> se gen ra project chay tren web, facebook...
+npm run start
+
+Thu vien
+React-chatbot-kit
+
+Co the tham khao botkit studio
